@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-demo/posts/first/</loc>
+    <loc>http://localhost:1313/Hugo-Demo/posts/first/</loc>
     <lastmod>2024-04-21T18:07:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-demo/</loc>
+    <loc>http://localhost:1313/Hugo-Demo/</loc>
     <lastmod>2024-04-21T18:07:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-demo/posts/</loc>
+    <loc>http://localhost:1313/Hugo-Demo/posts/</loc>
     <lastmod>2024-04-21T18:07:03+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-demo/categories/</loc>
+    <loc>http://localhost:1313/Hugo-Demo/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-demo/tags/</loc>
+    <loc>http://localhost:1313/Hugo-Demo/tags/</loc>
   </url>
 </urlset>
