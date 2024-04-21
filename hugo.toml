@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://KPSaiRahul.github.io/hugo-demo/'
 languageCode = 'en-us'
 title = 'My New Static webpage made with Hugo'
 theme = 'PaperMod'

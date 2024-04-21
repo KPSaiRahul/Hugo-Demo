@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My New Static webpage made with Hugo</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/hugo-demo/posts/</link>
     <description>Recent content in Posts on My New Static webpage made with Hugo</description>
     <generator>Hugo -- 0.125.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Apr 2024 18:07:03 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-demo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>//localhost:1313/posts/first/</link>
+      <link>http://localhost:1313/hugo-demo/posts/first/</link>
       <pubDate>Sun, 21 Apr 2024 18:07:03 +0530</pubDate>
-      <guid>//localhost:1313/posts/first/</guid>
+      <guid>http://localhost:1313/hugo-demo/posts/first/</guid>
       <description>My Name is K P Sai Rahul My Registration number is 20MIC0050 This is part of application development and deployment architecture&amp;rsquo;s DA-5 to create a static page and learn about hugo.</description>
     </item>
   </channel>
